@@ -21,6 +21,10 @@ vagrant up
 
 ### Результаты
 
+Проверяем, что хост доступен
+
+![file](img/1.JPG)
+
 Проверка, что пользователи root, vagrant и otusadm есть в группе admin:
 
 ![file](img/2.JPG)
